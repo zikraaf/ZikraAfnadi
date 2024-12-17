@@ -8,21 +8,19 @@ I focus on:</br>
 ✅ Building responsive layouts for seamless user experiences across devices </br>
 ✅ Applying design principles to deliver functional and aesthetic results 
 
-
+---
 
 ### 💻 Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,dart,flutter,py,aws,wordpress,webflow" alt="Skills" />
 </div>
 
-
-
 ### 🛠 Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,vscode,git,github,gitlab,notion,discord" alt="Tools" />
 </div>
 
-
+---
 
 ### 🎯 My Strength
 Combining my **design background** with frontend development, I ensure that every project looks great and works flawlessly.
